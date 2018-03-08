@@ -1,4 +1,9 @@
 includes:
   - layer:basic
   - layer:apt
+  - interface:juju-info
+options:
+  apt:
+    packages:
+      - openfoam5
 repo: "https://github.com/omnivector-solutions/layer-open-foam"
