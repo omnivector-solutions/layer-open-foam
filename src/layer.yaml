@@ -5,5 +5,5 @@ includes:
 options:
   apt:
     packages:
-      - openfoam5
+      - openfoam6
 repo: "https://github.com/omnivector-solutions/layer-open-foam"
